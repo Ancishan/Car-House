@@ -26,7 +26,7 @@ const Navbar = () => {
         },
     ]
     return (
-        <div className="bg-base-300 text-slate-900">
+        <div className="bg-base-100 text-slate-900">
             <div className="navbar container mx-auto ">
                 <div className="navbar-start">
                     <Link href={'/'}>
